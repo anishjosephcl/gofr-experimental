@@ -1,0 +1,5 @@
+Use GoFr an opinionated Golang framework for accelerated microservice development.
+Use the COnfiguration Management and enviroment variables supported by GoFr
+Use Database interactions
+Implement Observability
+Use HTTPServices
